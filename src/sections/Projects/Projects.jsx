@@ -32,7 +32,7 @@ function Projects() {
 
         <ProjectCard
           src={webimage}
-          link="https://dazzling-biscuit-92deba.netlify.app/#contact"
+          link="https://charming-figolla-cdd5a5.netlify.app/"
           h3="WebSite"
           p="Portfolio LP"
         />
