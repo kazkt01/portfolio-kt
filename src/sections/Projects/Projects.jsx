@@ -25,7 +25,7 @@ function Projects() {
 
         <ProjectCard
           src={threesiteimage}
-          link="https://candid-pithivier-b188ef.netlify.app/"
+          link="https://chic-pastelito-68c264.netlify.app/"
           h3="3DWebSite"
           p="WebGL Site"
         />
