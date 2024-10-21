@@ -41,7 +41,7 @@ function Hero() {
           <br />
           TACHIBANA
         </h1>
-        <h2>求職活動中...</h2>
+        {/* <h2>Welcome to my portfolio</h2> */}
         <span>
           <a href="https://github.com/kazkt01" target="_blank">
             <img src={githubIcon} alt="Github icon" />
