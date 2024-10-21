@@ -32,7 +32,7 @@ function Projects() {
 
         <ProjectCard
           src={webimage}
-          link="https://funny-chebakia-d61ab8.netlify.app/"
+          link="https://demoberger.vercel.app/" //versel-var
           h3="WebSite"
           p="Portfolio LP"
         />
