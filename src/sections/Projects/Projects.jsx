@@ -25,14 +25,14 @@ function Projects() {
 
         <ProjectCard
           src={threesiteimage}
-          link="https://chic-pastelito-68c264.netlify.app/"
+          link="https://quiet-sunshine-c8510f.netlify.app/"
           h3="3DWebSite"
           p="WebGL Site"
         />
 
         <ProjectCard
           src={webimage}
-          link="https://charming-figolla-cdd5a5.netlify.app/"
+          link="https://funny-chebakia-d61ab8.netlify.app/"
           h3="WebSite"
           p="Portfolio LP"
         />
