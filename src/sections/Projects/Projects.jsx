@@ -25,14 +25,14 @@ function Projects() {
 
         <ProjectCard
           src={threesiteimage}
-          link="https://quiet-sunshine-c8510f.netlify.app/"
+          link="https://vite-3d-red.vercel.app/"
           h3="3DWebSite"
           p="WebGL Site"
         />
 
         <ProjectCard
           src={webimage}
-          link="https://demoberger.vercel.app/" //versel-var
+          link="https://demoberger.vercel.app/" //vercel-var
           h3="WebSite"
           p="Portfolio LP"
         />
