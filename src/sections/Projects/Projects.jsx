@@ -32,9 +32,10 @@ function Projects() {
 
         <ProjectCard
           src={webimage}
-          link="https://demoberger.vercel.app/" //vercel-var
+          // link="https://demoberger.vercel.app/"
+          //vercel-var
           h3="WebSite"
-          p="Portfolio LP"
+          p="Now Updating"
         />
         {/* <ProjectCard
           src={webimage}
