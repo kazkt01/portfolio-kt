@@ -35,7 +35,7 @@ function Projects() {
           // link="https://demoberger.vercel.app/"
           //vercel-var
           h3="WebSite"
-          p="Now Updating"
+          p="Now Updating..."
         />
         {/* <ProjectCard
           src={webimage}
