@@ -10,7 +10,9 @@ import githubDark from "../../assets/github-dark.svg";
 // import CV from "../../assets/cv.pdf";
 import { useTheme } from "../../common/ThemeContext";
 
-import heroImg from "../../assets/IMG_7260.jpg";
+// import heroImg from "../../assets/IMG_7260.jpg";
+import devicon from "../../assets/dev.png";
+// import meicon from "../../assets/meicon.png";
 
 function Hero() {
   const { theme, toggleTheme } = useTheme();
@@ -24,7 +26,7 @@ function Hero() {
     <section id="hero" className={styles.container}>
       <div className={styles.colorModeContainer}>
         <img
-          src={heroImg}
+          src={devicon}
           className={styles.hero}
           alt="Profile picture of Harris Johnsen"
         />

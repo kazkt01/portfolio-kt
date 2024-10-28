@@ -9,6 +9,7 @@ import ProjectCard from "../../common/ProjectCard";
 import webimage from "../../assets/webpageimage.png";
 import appimage from "../../assets/appimage.png";
 import threesiteimage from "../../assets/3dsiteimage.png";
+import devimage from "../../assets/dev.png";
 
 function Projects() {
   return (
@@ -36,6 +37,13 @@ function Projects() {
           // vercel-var
           h3="WebSite"
           p="jQuery LP "
+        />
+        <ProjectCard
+          src={devimage}
+          link="https://wp-2-ashy.vercel.app/"
+          // vercel-var
+          h3="WebSite"
+          p="Developing ... "
         />
         {/* <ProjectCard
           src={webimage}
