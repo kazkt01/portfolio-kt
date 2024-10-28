@@ -43,7 +43,7 @@ function Projects() {
           link="https://wp-2-ashy.vercel.app/"
           // vercel-var
           h3="WebSite"
-          p="Developing ... "
+          p="Under Development ..."
         />
         {/* <ProjectCard
           src={webimage}
