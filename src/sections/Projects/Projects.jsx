@@ -19,7 +19,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={appimage}
-          link="https://cotumo-app-beta-var2.vercel.app/"
+          link="https://cotumo-mode-pf.vercel.app/"
           h3="Cotumo"
           p="Routin Chart App"
         />
