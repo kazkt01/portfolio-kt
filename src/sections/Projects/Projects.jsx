@@ -6,10 +6,10 @@ import styles from "./ProjectsStyles.module.css";
 import ProjectCard from "../../common/ProjectCard";
 // import cotumo from "../../assets/Ctumo-icon-idea.png";
 // import enviorment from "../../assets/DE04DAE1-BF05-4348-880B-E614A4AB4A71.jpg";
-import webimage from "../../assets/webpageimage.png";
-import appimage from "../../assets/appimage.png";
-import threesiteimage from "../../assets/3dsiteimage.png";
-import devimage from "../../assets/dev.png";
+import webimage from "../../assets/w-website.webp";
+import appimage from "../../assets/w-app-01.webp";
+import threesiteimage from "../../assets/w-3dsite.webp";
+import devimage from "../../assets/w-icon.webp";
 
 function Projects() {
   return (
