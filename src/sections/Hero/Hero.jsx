@@ -3,16 +3,8 @@ import sun from "../../assets/sun.svg";
 import moon from "../../assets/moon.svg";
 import githubLight from "../../assets/github-light.svg";
 import githubDark from "../../assets/github-dark.svg";
-// import twitterLight from "../../assets/twitter-light.svg";
-// import twitterDark from "../../assets/twitter-dark.svg";
-// import linkedinLight from "../../assets/linkedin-light.svg";
-// import linkedinDark from "../../assets/linkedin-dark.svg";
-// import CV from "../../assets/cv.pdf";
 import { useTheme } from "../../common/ThemeContext";
-
-// import heroImg from "../../assets/IMG_7260.jpg";
 import devicon from "../../assets/w-icon.webp";
-// import meicon from "../../assets/meicon.png";
 
 function Hero() {
   const { theme, toggleTheme } = useTheme();
