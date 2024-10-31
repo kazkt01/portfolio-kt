@@ -11,7 +11,7 @@ import githubDark from "../../assets/github-dark.svg";
 import { useTheme } from "../../common/ThemeContext";
 
 // import heroImg from "../../assets/IMG_7260.jpg";
-import devicon from "../../assets/dev.png";
+import devicon from "../../assets/w-icon.webp";
 // import meicon from "../../assets/meicon.png";
 
 function Hero() {
@@ -25,11 +25,7 @@ function Hero() {
   return (
     <section id="hero" className={styles.container}>
       <div className={styles.colorModeContainer}>
-        <img
-          src={devicon}
-          className={styles.hero}
-          alt="Profile picture of Harris Johnsen"
-        />
+        <img className={styles.hero} src={devicon} alt="pf" />
         <img
           className={styles.colorMode}
           src={themeIcon}
